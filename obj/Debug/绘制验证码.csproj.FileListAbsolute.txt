@@ -1,0 +1,9 @@
+C:\Users\77223\source\repos\C#\绘制验证码\bin\Debug\绘制验证码.exe.config
+C:\Users\77223\source\repos\C#\绘制验证码\bin\Debug\绘制验证码.exe
+C:\Users\77223\source\repos\C#\绘制验证码\bin\Debug\绘制验证码.pdb
+C:\Users\77223\source\repos\C#\绘制验证码\obj\Debug\绘制验证码.csprojAssemblyReference.cache
+C:\Users\77223\source\repos\C#\绘制验证码\obj\Debug\绘制验证码.Form1.resources
+C:\Users\77223\source\repos\C#\绘制验证码\obj\Debug\绘制验证码.Properties.Resources.resources
+C:\Users\77223\source\repos\C#\绘制验证码\obj\Debug\绘制验证码.csproj.GenerateResource.cache
+C:\Users\77223\source\repos\C#\绘制验证码\obj\Debug\绘制验证码.exe
+C:\Users\77223\source\repos\C#\绘制验证码\obj\Debug\绘制验证码.pdb
